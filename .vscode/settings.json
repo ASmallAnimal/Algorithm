@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "cmath": "cpp",
+        "queue": "cpp",
+        "stack": "cpp",
+        "deque": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "type_traits": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "xtree": "cpp",
+        "algorithm": "cpp"
+    }
+}
